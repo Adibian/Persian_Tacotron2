@@ -63,4 +63,8 @@ Training the model on 2500 audio files for 400 epochs produced the following res
 <img src="https://github.com/majidAdibian77/persian_tacotron/blob/master/result/plots/output_test2_56000(1634039244.8246922).jpg" width="1500">
 Click [here](https://github.com/majidAdibian77/persian_tacotron/tree/master/result/wavs/) for sample audio results.
 
-   
+## License  
+This project is based on [Tacotron2](https://github.com/NVIDIA/tacotron2),  
+which is licensed under the BSD 3-Clause License.  
+The modifications for [your purpose, e.g., Persian TTS, improvements] are © 2025 Majid Adibian.  
+
