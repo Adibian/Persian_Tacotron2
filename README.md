@@ -66,5 +66,5 @@ Click [here](https://github.com/majidAdibian77/persian_tacotron/tree/master/resu
 ## License  
 This project is based on [Tacotron2](https://github.com/NVIDIA/tacotron2),  
 which is licensed under the BSD 3-Clause License.  
-The modifications for [your purpose, e.g., Persian TTS, improvements] are © 2025 Majid Adibian.  
+The modifications for Persian TTS are © 2025 Majid Adibian.  
 
